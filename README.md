@@ -1,2 +1,2 @@
 # Elsys-prosjekt-gruppe-11
-jjfjf
+Denne fila inkluderer frontend og backend program for elsysprosjektet
